@@ -1,4 +1,4 @@
-## security-Awesome
+## security-awesome
 
 You can use the [editor on GitHub](https://github.com/crackeer/security-awesome/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
