@@ -16,6 +16,6 @@
 
 ## iOS-Security
 
-[iOS Hacking Resources][1]
+[iOS Hacking Resources][3]
 
-[1]: https://github.com/Siguza/ios-resources
+[3]: https://github.com/Siguza/ios-resources
