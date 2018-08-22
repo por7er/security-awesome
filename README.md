@@ -8,7 +8,9 @@
 
 ## Android-Security
 
-[android-security-awesome](https://github.com/enddo/android-security-awesome)
+[android-security-awesome by enddo](https://github.com/enddo/android-security-awesome)
+
+[android-security-awesome by ashish](https://github.com/ashishb/android-security-awesome)
 
 
 ## iOS-Security
