@@ -4,9 +4,9 @@
 
 [awesome-windows-kernel-security-development](https://github.com/ExpLife0011/awesome-windows-kernel-security-development)
 
-[IT Security Catalog](https://arthurgerkis.gitbooks.io/it-sec-catalog/content/) : 软件漏洞分析文章列表
+[IT Security Catalog](https://arthurgerkis.gitbooks.io/it-sec-catalog/content/)--软件漏洞分析文章列表
 
-[awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit):浏览器漏洞利用文章
+[awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit)--浏览器漏洞利用文章
 
 
 
