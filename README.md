@@ -6,6 +6,10 @@
 
 [IT Security Catalog](https://arthurgerkis.gitbooks.io/it-sec-catalog/content/) : 软件漏洞分析文章列表
 
+[awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit)
+
+
+
 ## Android-Security
 
 [android-security-awesome by enddo](https://github.com/enddo/android-security-awesome)
