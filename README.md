@@ -26,3 +26,5 @@
 ## Other
 
 [Google Project Zero开源项目](https://github.com/googleprojectzero/)
+
+[BrowserSecurity-浏览器安全相关学习资料](https://github.com/wnagzihxa1n/BrowserSecurity/blob/master/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99.md/)
