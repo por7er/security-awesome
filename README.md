@@ -37,3 +37,5 @@
 [BrowserSecurity-浏览器安全相关学习资料](https://github.com/wnagzihxa1n/BrowserSecurity/blob/master/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99.md/)
 
 [Application Security Wiki](https://appsecwiki.com/)
+
+[LinuxFlaw-大量Linux软件漏洞收集](https://github.com/VulnReproduction/LinuxFlaw)
