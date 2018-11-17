@@ -29,6 +29,8 @@
 
 [Google CTF](https://github.com/google/google-ctf)
 
+[CTF-pwn-tips](https://github.com/Naetw/CTF-pwn-tips)
+
 
 ## Other
 
