@@ -43,3 +43,5 @@
 [ awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks/)--2012 年到 2018 年各安全大会的视频资源列表
 
 [LinuxFlaw-大量Linux软件漏洞收集](https://github.com/VulnReproduction/LinuxFlaw)
+
+[路由器漏洞分析集合（PAGalaxyLab ）](https://github.com/PAGalaxyLab/VulInfo)
