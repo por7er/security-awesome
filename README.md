@@ -45,3 +45,5 @@
 [LinuxFlaw-大量Linux软件漏洞收集](https://github.com/VulnReproduction/LinuxFlaw)
 
 [路由器漏洞分析集合（PAGalaxyLab ）](https://github.com/PAGalaxyLab/VulInfo)
+
+[VMware安全议题及文章整理](https://github.com/xairy/vmware-exploitation/)
