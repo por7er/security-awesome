@@ -47,3 +47,6 @@
 [路由器漏洞分析集合（PAGalaxyLab ）](https://github.com/PAGalaxyLab/VulInfo)
 
 [VMware安全议题及文章整理](https://github.com/xairy/vmware-exploitation/)
+
+[Browser-Pwn  - 针对浏览器漏洞利用的资源合集](https://github.com/m1ghtym0/browser-pwn)
+
