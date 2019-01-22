@@ -50,3 +50,5 @@
 
 [Browser-Pwn  - 针对浏览器漏洞利用的资源合集](https://github.com/m1ghtym0/browser-pwn)
 
+[technical whitepapers-黑客、网络安全、数据库以及逆向工程方向的技术白皮书收集](https://github.com/trimstray/technical-whitepapers)
+
