@@ -53,3 +53,6 @@
 [technical whitepapers-黑客、网络安全、数据库以及逆向工程方向的技术白皮书收集](https://github.com/trimstray/technical-whitepapers)
 
 [CPU 漏洞相关信息的收集](https://github.com/houjingyi233/CPU-vulnerabiility-collections)
+
+[Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
+
