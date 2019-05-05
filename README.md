@@ -56,3 +56,4 @@
 
 [Linux Kernel Exploitation-近几年 Linuxn 内核漏洞挖掘、漏洞分析、漏洞利用方面的资料整理](https://github.com/xairy/linux-kernel-exploitation)
 
+[Awesome Advanced Windows Exploitation References -  Browser、Mitigation 、Kernel 等漏洞利用相关研究的列表](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References)
