@@ -56,3 +56,5 @@
 [CPU 漏洞相关信息的收集](https://github.com/houjingyi233/CPU-vulnerabiility-collections)
 
 [Linux Kernel Exploitation-近几年 Linuxn 内核漏洞挖掘、漏洞分析、漏洞利用方面的资料整理](https://github.com/xairy/linux-kernel-exploitation)
+
+[FuzzingPaper](https://github.com/wcventure/FuzzingPaper)
