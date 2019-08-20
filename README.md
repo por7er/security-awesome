@@ -10,6 +10,8 @@
 
 [Awesome Advanced Windows Exploitation References -  Browser、Mitigation 、Kernel 等漏洞利用相关研究的列表](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References)
 
+[Awesome Hyper-V Exploitation-Hyper-V 漏洞及利用相关的资料收集](https://github.com/shogunlab/awesome-hyper-v-exploitation)
+
 
 ## Android-Security
 
