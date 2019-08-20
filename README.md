@@ -58,3 +58,5 @@
 [Linux Kernel Exploitation-近几年 Linuxn 内核漏洞挖掘、漏洞分析、漏洞利用方面的资料整理](https://github.com/xairy/linux-kernel-exploitation)
 
 [FuzzingPaper](https://github.com/wcventure/FuzzingPaper)
+
+[Automatic-Exploit-Generation-SCUBSRGroup 整理的关于软件漏洞自动化利用（AEG）方向的技术资料](https://github.com/SCUBSRGroup/Automatic-Exploit-Generation)
