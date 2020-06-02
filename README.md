@@ -12,6 +12,7 @@
 
 [Awesome Hyper-V Exploitation-Hyper-V 漏洞及利用相关的资料收集](https://github.com/shogunlab/awesome-hyper-v-exploitation)
 
+[WindowsExploitationResources](https://github.com/FULLSHADE/WindowsExploitationResources)
 
 ## Android-Security
 
